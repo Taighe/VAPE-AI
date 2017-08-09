@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: dfea3138e53ccb4419149687ea6150b2
+timeCreated: 1502234187
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CabinetDoor_geo
+    100004: CabinetHandle
+    100006: LowerDraw_geo
+    100008: LowerDrawHandle_geo
+    100010: polySurface12
+    100012: UpperDraw_geo
+    100014: UpperDrawHandle_geo
+    100016: WheelBL_geo
+    100018: WheelBR_geo
+    100020: WheelCoverBL_geo
+    100022: WheelCoverBR_geo
+    100024: WheelCoverFL_geo
+    100026: WheelCoverFR_geo
+    100028: WheelFL_geo
+    100030: WheelFR_geo
+    400000: //RootNode
+    400002: CabinetDoor_geo
+    400004: CabinetHandle
+    400006: LowerDraw_geo
+    400008: LowerDrawHandle_geo
+    400010: polySurface12
+    400012: UpperDraw_geo
+    400014: UpperDrawHandle_geo
+    400016: WheelBL_geo
+    400018: WheelBR_geo
+    400020: WheelCoverBL_geo
+    400022: WheelCoverBR_geo
+    400024: WheelCoverFL_geo
+    400026: WheelCoverFR_geo
+    400028: WheelFL_geo
+    400030: WheelFR_geo
+    2300000: CabinetDoor_geo
+    2300002: CabinetHandle
+    2300004: LowerDraw_geo
+    2300006: LowerDrawHandle_geo
+    2300008: polySurface12
+    2300010: UpperDraw_geo
+    2300012: UpperDrawHandle_geo
+    2300014: WheelBL_geo
+    2300016: WheelBR_geo
+    2300018: WheelCoverBL_geo
+    2300020: WheelCoverBR_geo
+    2300022: WheelCoverFL_geo
+    2300024: WheelCoverFR_geo
+    2300026: WheelFL_geo
+    2300028: WheelFR_geo
+    3300000: CabinetDoor_geo
+    3300002: CabinetHandle
+    3300004: LowerDraw_geo
+    3300006: LowerDrawHandle_geo
+    3300008: polySurface12
+    3300010: UpperDraw_geo
+    3300012: UpperDrawHandle_geo
+    3300014: WheelBL_geo
+    3300016: WheelBR_geo
+    3300018: WheelCoverBL_geo
+    3300020: WheelCoverBR_geo
+    3300022: WheelCoverFL_geo
+    3300024: WheelCoverFR_geo
+    3300026: WheelFL_geo
+    3300028: WheelFR_geo
+    4300000: polySurface12
+    4300002: UpperDraw_geo
+    4300004: LowerDrawHandle_geo
+    4300006: CabinetHandle
+    4300008: WheelCoverBR_geo
+    4300010: WheelCoverBL_geo
+    4300012: WheelCoverFL_geo
+    4300014: CabinetDoor_geo
+    4300016: LowerDraw_geo
+    4300018: WheelCoverFR_geo
+    4300020: UpperDrawHandle_geo
+    4300022: WheelBR_geo
+    4300024: WheelFL_geo
+    4300026: WheelBL_geo
+    4300028: WheelFR_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
