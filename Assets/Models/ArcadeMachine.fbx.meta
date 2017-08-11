@@ -1,40 +1,33 @@
 fileFormatVersion: 2
-guid: 3854fa410dd87ca43a03924cbfc792d8
-timeCreated: 1502070386
+guid: 4837e65746ad5f34f99bb1f253d26f9d
+timeCreated: 1502429402
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Computer 1
-    100004: PowerButton
-    100006: Computer
-    100008: Computer2
-    100010: ComputerBase
-    100012: ComputerBase1
-    100014: EjectButton
-    100016: transform1
+    100002: ArcadeMachineBase
+    100004: Button
+    100006: Draw
+    100008: Slot
     400000: //RootNode
-    400002: Computer 1
-    400004: PowerButton
-    400006: Computer
-    400008: Computer2
-    400010: ComputerBase
-    400012: ComputerBase1
-    400014: EjectButton
-    400016: transform1
-    2300000: Computer 1
-    2300002: PowerButton
-    2300004: ComputerBase
-    2300006: EjectButton
-    3300000: Computer 1
-    3300002: PowerButton
-    3300004: ComputerBase
-    3300006: EjectButton
-    4300000: PowerButton
-    4300002: Computer
-    4300004: ComputerBase
-    4300006: EjectButton
+    400002: ArcadeMachineBase
+    400004: Button
+    400006: Draw
+    400008: Slot
+    2300000: ArcadeMachineBase
+    2300002: Button
+    2300004: Draw
+    2300006: Slot
+    3300000: ArcadeMachineBase
+    3300002: Button
+    3300004: Draw
+    3300006: Slot
+    4300000: Slot
+    4300002: Draw
+    4300004: Button
+    4300006: ArcadeMachineBase
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -99,7 +92,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

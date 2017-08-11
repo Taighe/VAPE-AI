@@ -1,14 +1,14 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
-using System;
 using UnityEngine;
 using VapeEvents;
 
-public class TriggerTest : Condition
+public class TriggerTest2 : Condition
 {
     public void Update()
     {
-        if (Input.GetKeyDown(KeyCode.D))
+        if (Input.GetKeyDown(KeyCode.A))
         {
             OnConditionFulfilled(new ConditionEventArgs(name));
         }
@@ -16,6 +16,6 @@ public class TriggerTest : Condition
 
     public void Action()
     {
-        Debug.Log("This is the Action called");
+        Debug.Log("This is another Action called");
     }
 }

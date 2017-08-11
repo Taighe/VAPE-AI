@@ -1,21 +1,36 @@
 ﻿using UnityEngine;
 using System;
 using UnityEngine.Events;
+
 namespace VapeEvents
 {
-    public interface Condition
+    public class Condition : MonoBehaviour
     {
-        void TestCondition();
-        event EventHandler ConditionFulfilled;
+        public delegate void ConditionEventHandler(object sender, ConditionEventArgs e);
+        public event ConditionEventHandler ConditionFulfilled;
+
+        protected virtual void OnConditionFulfilled(ConditionEventArgs e)
+        {
+            if (ConditionFulfilled != null)
+                ConditionFulfilled(this, e);
+        }
     }
 
-    public class MyEventArgs : EventArgs
+    public class ConditionEventArgs : EventArgs
     {
-        int m_number;
-        public MyEventArgs(int number)
+        string m_name;
+        public ConditionEventArgs(string name)
         {
-            m_number = number;
+            m_name = name;
         }
-        
+
+        public string Name
+        {
+            get
+            {
+                return m_name;
+            }
+        }
+       
     }
 }

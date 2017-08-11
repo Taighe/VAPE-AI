@@ -2,17 +2,61 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using System;
+
 namespace VapeEvents
 {
     [System.Serializable]
-    public struct VapeEvent
+    public class VapeEvent
     {
-        public UnityEvent conditions;
+        public GameObject conditions;
         public UnityEvent actions;
+        VapeEvent m_nextEvent;
+        VapeEvent m_prevEvent;
 
-        void Start()
+        public VapeEvent NextEvent
         {
+            get
+            {
+                return m_nextEvent;
+            }
+            set
+            {
+                m_nextEvent = value;
+            }
+        }
+        public VapeEvent PrevEvent
+        {
+            get
+            {
+                return m_prevEvent;
+            }
+            set
+            {
+                m_prevEvent = value;
+            }
+        }
 
+        public void Start()
+        {
+            Condition obj = conditions.GetComponent<Condition>();
+            obj.ConditionFulfilled += TriggerAction;
+        }
+
+        void TriggerAction(object sender, ConditionEventArgs e)
+        {
+            Debug.Log(e.Name + " condition is true");
+            actions.Invoke();
+            if (m_nextEvent != null)
+                m_nextEvent.Active(true);
+
+        }
+
+        public void Active(bool value)
+        {           
+            conditions.SetActive(value);
+            Condition _actions = actions.GetPersistentTarget(0) as Condition;
+            _actions.gameObject.SetActive(value);
         }
 
         public void LateUpdate()
