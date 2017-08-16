@@ -10,23 +10,38 @@ ModelImporter:
     100004: Button
     100006: Draw
     100008: Slot
+    100010: ArcadeMashineBase
+    100012: CoinButton
+    100014: GameButton
     400000: //RootNode
     400002: ArcadeMachineBase
     400004: Button
     400006: Draw
     400008: Slot
+    400010: ArcadeMashineBase
+    400012: CoinButton
+    400014: GameButton
     2300000: ArcadeMachineBase
     2300002: Button
     2300004: Draw
     2300006: Slot
+    2300008: ArcadeMashineBase
+    2300010: CoinButton
+    2300012: GameButton
     3300000: ArcadeMachineBase
     3300002: Button
     3300004: Draw
     3300006: Slot
+    3300008: ArcadeMashineBase
+    3300010: CoinButton
+    3300012: GameButton
     4300000: Slot
     4300002: Draw
     4300004: Button
     4300006: ArcadeMachineBase
+    4300008: GameButton
+    4300010: ArcadeMashineBase
+    4300012: CoinButton
     9500000: //RootNode
   materials:
     importMaterials: 1

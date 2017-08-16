@@ -12,21 +12,24 @@ public class EventTree : MonoBehaviour
     {
         int head = 0;
         int tail = events.Count - 1;
-        events[head].NextEvent = events[1];
         events[head].Start();
         events[head].Active(true);
-
-        for (int i = 1; i < events.Count - 1; i++)
+        if (head != tail)
         {
-            events[i].PrevEvent = events[i - 1];
-            events[i].NextEvent = events[i + 1];
-            events[i].Start();
-            events[i].Active(false);
+            events[head].NextEvent = events[1];
+ 
+            for (int i = 1; i < events.Count - 1; i++)
+            {
+                events[i].PrevEvent = events[i - 1];
+                events[i].NextEvent = events[i + 1];
+                events[i].Start();
+                events[i].Active(false);
+            }
+
+            events[tail].PrevEvent = events[tail - 1];
+            events[tail].Start();
+            events[tail].Active(false);
         }
-        
-        events[tail].PrevEvent = events[tail - 1];
-        events[tail].Start();
-        events[tail].Active(false);
     }
 
     void AddNew()
