@@ -78,13 +78,16 @@ public class EventTreeListInspector : Editor
             SerializedProperty MyListRef = ThisList.GetArrayElementAtIndex(i);
             SerializedProperty actions = MyListRef.FindPropertyRelative("actions");
             SerializedProperty conditions = MyListRef.FindPropertyRelative("conditions");
-
+            EditorGUILayout.LabelField("Event (" + i + ")");
             // Choose to display automatic or custom field types. This is only for example to help display automatic and custom fields.
             //1. Automatic, No customization <-- Choose me I'm automatic and easy to setup
             EditorGUILayout.PropertyField(conditions);
             EditorGUILayout.PropertyField(actions);
             //EditorGUILayout.LabelField("Automatic Field By Property Type");
-
+            if (GUILayout.Button("Add Event here (" + i.ToString() + ")"))
+            {
+                ThisList.InsertArrayElementAtIndex(ThisList.arraySize - i);
+            }
             // Array fields with remove at index
             EditorGUILayout.Space();
             EditorGUILayout.Space();
