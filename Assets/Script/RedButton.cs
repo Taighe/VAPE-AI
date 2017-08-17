@@ -9,7 +9,7 @@ public class RedButton : Condition
 
 	void Update ()
     {
-		if(nvr_button.ButtonDown)
+		if(nvr_button.ButtonIsPushed)
         {
             OnConditionFulfilled(new ConditionEventArgs(name));
         }

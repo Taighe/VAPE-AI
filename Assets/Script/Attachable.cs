@@ -19,4 +19,9 @@ public class Attachable : Condition
             OnConditionFulfilled(new ConditionEventArgs(name));
         }
     }
+
+    public void Action()
+    {
+
+    }
 }

@@ -9,7 +9,7 @@ namespace VapeEvents
     [System.Serializable]
     public class VapeEvent
     {
-        public GameObject conditions;
+        public Condition conditions;
         public UnityEvent actions;
         VapeEvent m_nextEvent;
         VapeEvent m_prevEvent;
@@ -39,8 +39,7 @@ namespace VapeEvents
 
         public void Start()
         {
-            Condition obj = conditions.GetComponent<Condition>();
-            obj.ConditionFulfilled += TriggerAction;
+            conditions.ConditionFulfilled += TriggerAction;
         }
 
         void TriggerAction(object sender, ConditionEventArgs e)
@@ -53,10 +52,10 @@ namespace VapeEvents
         }
 
         public void Active(bool value)
-        {           
-            conditions.SetActive(value);
+        {
+            conditions.enabled = value;
             Condition _actions = actions.GetPersistentTarget(0) as Condition;
-            _actions.gameObject.SetActive(value);
+            _actions.enabled = value;
         }
 
         public void LateUpdate()
