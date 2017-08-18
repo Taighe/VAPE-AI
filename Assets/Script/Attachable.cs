@@ -6,15 +6,15 @@ using VapeEvents;
 
 public class Attachable : Condition
 {
-    NVRInteractableItem m_interactable;
+    NVRAttachJoint m_joint;
     void Start()
     {
-        m_interactable = GetComponent<NVRInteractableItem>();
+        m_joint = GetComponent<NVRAttachJoint>();
     }
 
     void Update()
     {
-        if(m_interactable.IsAttached)
+        if(m_joint.IsAttached)
         {
             OnConditionFulfilled(new ConditionEventArgs(name));
         }
