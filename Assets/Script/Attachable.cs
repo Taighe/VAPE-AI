@@ -3,25 +3,31 @@ using System.Collections.Generic;
 using UnityEngine;
 using NewtonVR;
 using VapeEvents;
+using UnityEngine.UI;
 
 public class Attachable : Condition
 {
-    NVRAttachJoint m_joint;
+    NVRAttachPoint m_point;
+    public Text computerText; 
+
     void Start()
     {
-        m_joint = GetComponent<NVRAttachJoint>();
+        m_point = GetComponent<NVRAttachPoint>();
     }
 
     void Update()
     {
-        if(m_joint.IsAttached)
+        if(m_point.IsAttached)
         {
-            OnConditionFulfilled(new ConditionEventArgs(name));
+            if(m_point.)
+            {
+                OnConditionFulfilled(new ConditionEventArgs(name));
+            }
         }
     }
 
     public void Action()
     {
-
+        
     }
 }
