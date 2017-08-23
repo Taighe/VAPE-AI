@@ -15,6 +15,31 @@ ModelImporter:
     100014: EjectButton
     100016: transform1
     100018: DiskButton
+    100020: colliders
+    100022: DesktopButton
+    100024: DiskEjectButton
+    100026: pCube10
+    100028: pCube11
+    100030: pCube12
+    100032: pCube13
+    100034: pCube14
+    100036: pCube15
+    100038: pCube16
+    100040: pCube17
+    100042: pCube18
+    100044: pCube19
+    100046: pCube20
+    100048: pCube21
+    100050: pCube22
+    100052: pCube23
+    100054: pCube24
+    100056: pCube25
+    100058: pCube26
+    100060: pCube5
+    100062: pCube6
+    100064: pCube7
+    100066: pCube8
+    100068: pCube9
     400000: //RootNode
     400002: Computer 1
     400004: PowerButton
@@ -25,21 +50,118 @@ ModelImporter:
     400014: EjectButton
     400016: transform1
     400018: DiskButton
+    400020: colliders
+    400022: DesktopButton
+    400024: DiskEjectButton
+    400026: pCube10
+    400028: pCube11
+    400030: pCube12
+    400032: pCube13
+    400034: pCube14
+    400036: pCube15
+    400038: pCube16
+    400040: pCube17
+    400042: pCube18
+    400044: pCube19
+    400046: pCube20
+    400048: pCube21
+    400050: pCube22
+    400052: pCube23
+    400054: pCube24
+    400056: pCube25
+    400058: pCube26
+    400060: pCube5
+    400062: pCube6
+    400064: pCube7
+    400066: pCube8
+    400068: pCube9
     2300000: Computer 1
     2300002: PowerButton
     2300004: ComputerBase
     2300006: EjectButton
     2300008: DiskButton
+    2300010: DesktopButton
+    2300012: DiskEjectButton
+    2300014: pCube10
+    2300016: pCube11
+    2300018: pCube12
+    2300020: pCube13
+    2300022: pCube14
+    2300024: pCube15
+    2300026: pCube16
+    2300028: pCube17
+    2300030: pCube18
+    2300032: pCube19
+    2300034: pCube20
+    2300036: pCube21
+    2300038: pCube22
+    2300040: pCube23
+    2300042: pCube24
+    2300044: pCube25
+    2300046: pCube26
+    2300048: pCube5
+    2300050: pCube6
+    2300052: pCube7
+    2300054: pCube8
+    2300056: pCube9
     3300000: Computer 1
     3300002: PowerButton
     3300004: ComputerBase
     3300006: EjectButton
     3300008: DiskButton
+    3300010: DesktopButton
+    3300012: DiskEjectButton
+    3300014: pCube10
+    3300016: pCube11
+    3300018: pCube12
+    3300020: pCube13
+    3300022: pCube14
+    3300024: pCube15
+    3300026: pCube16
+    3300028: pCube17
+    3300030: pCube18
+    3300032: pCube19
+    3300034: pCube20
+    3300036: pCube21
+    3300038: pCube22
+    3300040: pCube23
+    3300042: pCube24
+    3300044: pCube25
+    3300046: pCube26
+    3300048: pCube5
+    3300050: pCube6
+    3300052: pCube7
+    3300054: pCube8
+    3300056: pCube9
     4300000: PowerButton
     4300002: Computer
     4300004: ComputerBase
     4300006: EjectButton
     4300008: DiskButton
+    4300010: pCube6
+    4300012: pCube8
+    4300014: pCube5
+    4300016: pCube7
+    4300018: pCube9
+    4300020: pCube10
+    4300022: pCube11
+    4300024: pCube12
+    4300026: pCube13
+    4300028: pCube14
+    4300030: pCube15
+    4300032: pCube16
+    4300034: pCube17
+    4300036: pCube18
+    4300038: pCube19
+    4300040: pCube20
+    4300042: pCube21
+    4300044: pCube22
+    4300046: pCube23
+    4300048: pCube24
+    4300050: pCube25
+    4300052: pCube26
+    4300054: DiskEjectButton
+    4300056: DesktopButton
   materials:
     importMaterials: 1
     materialName: 0
