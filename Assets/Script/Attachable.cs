@@ -7,22 +7,20 @@ using UnityEngine.UI;
 
 public class Attachable : Condition
 {
-    NVRAttachPoint m_point;
+    NVRAttachJoint m_joint;
     public Text computerText; 
 
     void Start()
     {
-        m_point = GetComponent<NVRAttachPoint>();
+        m_joint = GetComponent<NVRAttachJoint>();
     }
 
     void Update()
     {
-        if(m_point.IsAttached)
+        if(m_joint.AttachedItem != null)
         {
-            if(m_point.)
-            {
+            if(m_joint.AttachedItem.gameObject.CompareTag("Eyes"))
                 OnConditionFulfilled(new ConditionEventArgs(name));
-            }
         }
     }
 

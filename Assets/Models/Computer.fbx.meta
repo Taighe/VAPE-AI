@@ -40,6 +40,10 @@ ModelImporter:
     100064: pCube7
     100066: pCube8
     100068: pCube9
+    100070: ComputerColliders
+    100072: pCube77
+    100074: pCube78
+    100076: pCube79
     400000: //RootNode
     400002: Computer 1
     400004: PowerButton
@@ -75,6 +79,10 @@ ModelImporter:
     400064: pCube7
     400066: pCube8
     400068: pCube9
+    400070: ComputerColliders
+    400072: pCube77
+    400074: pCube78
+    400076: pCube79
     2300000: Computer 1
     2300002: PowerButton
     2300004: ComputerBase
@@ -104,6 +112,9 @@ ModelImporter:
     2300052: pCube7
     2300054: pCube8
     2300056: pCube9
+    2300058: pCube77
+    2300060: pCube78
+    2300062: pCube79
     3300000: Computer 1
     3300002: PowerButton
     3300004: ComputerBase
@@ -133,6 +144,9 @@ ModelImporter:
     3300052: pCube7
     3300054: pCube8
     3300056: pCube9
+    3300058: pCube77
+    3300060: pCube78
+    3300062: pCube79
     4300000: PowerButton
     4300002: Computer
     4300004: ComputerBase
@@ -162,6 +176,9 @@ ModelImporter:
     4300052: pCube26
     4300054: DiskEjectButton
     4300056: DesktopButton
+    4300058: pCube77
+    4300060: pCube78
+    4300062: pCube79
   materials:
     importMaterials: 1
     materialName: 0
