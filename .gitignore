@@ -32,7 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Assets/NewtonVR/
 Assets/SteamVR/
 Assets/VRTK/
 Assets/Plugins/
@@ -40,3 +39,399 @@ Assets/SteamAudio/
 Assets/StreamingAssets.meta
 Assets/SteamAudio.meta
 Assets/ShaderForge/
+Assets/NewtonVR/SteamVR/NVRSteamVRIntegration.cs.meta
+Assets/NewtonVR/SteamVR/NVRSteamVRIntegration.cs
+Assets/NewtonVR/SteamVR/NVRSteamVRInputDevice.cs.meta
+Assets/NewtonVR/SteamVR/NVRSteamVRInputDevice.cs
+Assets/NewtonVR/SteamVR.meta
+Assets/NewtonVR/Resources/ViveControllers/ViveColliders.prefab.meta
+Assets/NewtonVR/Resources/ViveControllers/ViveColliders.prefab
+Assets/NewtonVR/Resources/ViveControllers/KnucklesPhysicalHandRight.prefab.meta
+Assets/NewtonVR/Resources/ViveControllers/KnucklesPhysicalHandRight.prefab
+Assets/NewtonVR/Resources/ViveControllers/KnucklesPhysicalHandLeft.prefab.meta
+Assets/NewtonVR/Resources/ViveControllers/KnucklesPhysicalHandLeft.prefab
+Assets/NewtonVR/Resources/ViveControllers.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRightModel.obj.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRightColliders.prefab.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRightColliders.prefab
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRight.prefab.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRight.prefab
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRight.png.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRight.png
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRight.mtl.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchRight.mtl
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeftModel.obj.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeftColliders.prefab.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeftColliders.prefab
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeft.prefab.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeft.prefab
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeft.png.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeft.png
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeft.mtl.meta
+Assets/NewtonVR/Resources/TouchControllers/oculusTouchLeft.mtl
+Assets/NewtonVR/Resources/TouchControllers/Materials/oculusTouchRight.mat.meta
+Assets/NewtonVR/Resources/TouchControllers/Materials/oculusTouchRight.mat
+Assets/NewtonVR/Resources/TouchControllers/Materials/oculusTouchLeft.mat.meta
+Assets/NewtonVR/Resources/TouchControllers/Materials/oculusTouchLeft.mat
+Assets/NewtonVR/Resources/TouchControllers/Materials/oculus.mat.meta
+Assets/NewtonVR/Resources/TouchControllers/Materials/oculus.mat
+Assets/NewtonVR/Resources/TouchControllers/Materials.meta
+Assets/NewtonVR/Resources/TouchControllers.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__6.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__6.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__5.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__5.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__4.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__4.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__3.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__3.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__2.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__2.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__1.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood/wood__1.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - wood.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__6.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__6.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__5.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__5.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__4.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__4.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__3.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__3.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__2.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__2.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__1.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic/plastic__1.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - plastic.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__6.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__6.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__5.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__5.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__4.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__4.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__3.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__3.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__2.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__2.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__1.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal/metal__1.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - metal.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__6.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__6.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__5.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__5.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__4.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__4.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__3.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__3.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__2.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__2.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__1.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass/glass__1.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - glass.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__6.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__6.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__5.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__5.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__4.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__4.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__3.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__3.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__2.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__2.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__1.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet/carpet__1.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - carpet.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__6.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__6.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__5.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__5.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__4.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__4.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__3.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__3.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__2.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__2.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__1.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard/cardboard__1.wav
+Assets/NewtonVR/Resources/CollisionSounds/surface - cardboard.meta
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__6.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__6.wav
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__5.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__5.wav
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__4.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__4.wav
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__3.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__3.wav
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__2.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__2.wav
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__1.wav.meta
+Assets/NewtonVR/Resources/CollisionSounds/_default/_default__1.wav
+Assets/NewtonVR/Resources/CollisionSounds/_default.meta
+Assets/NewtonVR/Resources/CollisionSounds.meta
+Assets/NewtonVR/Resources/CollisionSoundPrefab.prefab.meta
+Assets/NewtonVR/Resources/CollisionSoundPrefab.prefab
+Assets/NewtonVR/Resources.meta
+Assets/NewtonVR/Oculus/NVROculusIntegration.cs.meta
+Assets/NewtonVR/Oculus/NVROculusIntegration.cs
+Assets/NewtonVR/Oculus/NVROculusInputDevice.cs.meta
+Assets/NewtonVR/Oculus/NVROculusInputDevice.cs
+Assets/NewtonVR/Oculus.meta
+Assets/NewtonVR/NVRUIIgnoreRaycast.cs.meta
+Assets/NewtonVR/NVRUIIgnoreRaycast.cs
+Assets/NewtonVR/NVRSwitch.cs.meta
+Assets/NewtonVR/NVRSwitch.cs
+Assets/NewtonVR/NVRSlider.cs.meta
+Assets/NewtonVR/NVRSlider.cs
+Assets/NewtonVR/NVRSDKIntegrations.cs.meta
+Assets/NewtonVR/NVRSDKIntegrations.cs
+Assets/NewtonVR/NVRPlayer.prefab.meta
+Assets/NewtonVR/NVRPlayer.prefab
+Assets/NewtonVR/NVRPlayer.cs.meta
+Assets/NewtonVR/NVRPlayer.cs
+Assets/NewtonVR/NVRPhysicalController.cs.meta
+Assets/NewtonVR/NVRPhysicalController.cs
+Assets/NewtonVR/NVRLever.cs.meta
+Assets/NewtonVR/NVRLever.cs
+Assets/NewtonVR/NVRLetterSpinner.cs.meta
+Assets/NewtonVR/NVRLetterSpinner.cs
+Assets/NewtonVR/NVRInteractables.cs.meta
+Assets/NewtonVR/NVRInteractables.cs
+Assets/NewtonVR/NVRInteractableRotator.cs.meta
+Assets/NewtonVR/NVRInteractableRotator.cs
+Assets/NewtonVR/NVRInteractableItemClippable.cs.meta
+Assets/NewtonVR/NVRInteractableItemClippable.cs
+Assets/NewtonVR/NVRInteractableItemAutoAttach.cs.meta
+Assets/NewtonVR/NVRInteractableItemAutoAttach.cs
+Assets/NewtonVR/NVRInteractableItem.cs.meta
+Assets/NewtonVR/NVRInteractableItem.cs
+Assets/NewtonVR/NVRInteractable.cs.meta
+Assets/NewtonVR/NVRInteractable.cs
+Assets/NewtonVR/NVRIntegration.cs.meta
+Assets/NewtonVR/NVRIntegration.cs
+Assets/NewtonVR/NVRInputDevice.cs.meta
+Assets/NewtonVR/NVRInputDevice.cs
+Assets/NewtonVR/NVRHelpers.cs.meta
+Assets/NewtonVR/NVRHelpers.cs
+Assets/NewtonVR/NVRHead.cs.meta
+Assets/NewtonVR/NVRHead.cs
+Assets/NewtonVR/NVRHand.cs.meta
+Assets/NewtonVR/NVRHand.cs
+Assets/NewtonVR/NVRCanvasInput.cs.meta
+Assets/NewtonVR/NVRCanvasInput.cs
+Assets/NewtonVR/NVRButtonsComparer.cs.meta
+Assets/NewtonVR/NVRButtonsComparer.cs
+Assets/NewtonVR/NVRButtons.cs.meta
+Assets/NewtonVR/NVRButtons.cs
+Assets/NewtonVR/NVRButtonInput.cs.meta
+Assets/NewtonVR/NVRButtonInput.cs
+Assets/NewtonVR/NVRButton.cs.meta
+Assets/NewtonVR/NVRButton.cs
+Assets/NewtonVR/NVRAttachPointMapper.cs.meta
+Assets/NewtonVR/NVRAttachPointMapper.cs
+Assets/NewtonVR/NVRAttachPoint.cs.meta
+Assets/NewtonVR/NVRAttachPoint.cs
+Assets/NewtonVR/NVRAttachJoint.cs.meta
+Assets/NewtonVR/Meshs/NVRFloorMesh.asset.meta
+Assets/NewtonVR/Meshs/NVRFloorMesh.asset
+Assets/NewtonVR/Meshs/NVREditorPlayer.obj.meta
+Assets/NewtonVR/Meshs/Materials/defaultMat.mat.meta
+Assets/NewtonVR/Meshs/Materials/defaultMat.mat
+Assets/NewtonVR/Meshs/Materials.meta
+Assets/NewtonVR/Meshs.meta
+Assets/NewtonVR/Example/Textures/on.png.meta
+Assets/NewtonVR/Example/Textures/on.png
+Assets/NewtonVR/Example/Textures/off.png.meta
+Assets/NewtonVR/Example/Textures/off.png
+Assets/NewtonVR/Example/Textures/NVRExampleLetterSpinner.psd.meta
+Assets/NewtonVR/Example/Textures/NVRExampleLetterSpinner.psd
+Assets/NewtonVR/Example/Textures.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleSwitch.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleSwitch.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleSmallSlider.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleSmallSlider.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleRocket.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleRocket.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleLever.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleLever.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleKnob.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleKnob.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleGun.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleGun.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleFlowerBullet.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleFlowerBullet.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleDrawer.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleDrawer.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleDoor.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleDoor.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleCustomControllerModel.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleCustomControllerModel.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleCustomControllerColliders.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleCustomControllerColliders.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleBullet.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleBullet.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleBox.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleBox.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleBigSlider.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleBigSlider.prefab
+Assets/NewtonVR/Example/Prefabs/NVRExampleApple.prefab.meta
+Assets/NewtonVR/Example/Prefabs/NVRExampleApple.prefab
+Assets/NewtonVR/Example/Prefabs/AutoAttachExample.prefab.meta
+Assets/NewtonVR/Example/Prefabs/AutoAttachExample.prefab
+Assets/NewtonVR/Example/Prefabs.meta
+Assets/NewtonVR/Example/Physics Materials/DrawerPhysicsMaterial.physicMaterial.meta
+Assets/NewtonVR/Example/Physics Materials/DrawerPhysicsMaterial.physicMaterial
+Assets/NewtonVR/Example/Physics Materials.meta
+Assets/NewtonVR/Example/OverrideHands/Sphere.prefab.meta
+Assets/NewtonVR/Example/OverrideHands/Sphere.prefab
+Assets/NewtonVR/Example/OverrideHands/Sphere collider.prefab.meta
+Assets/NewtonVR/Example/OverrideHands/Sphere collider.prefab
+Assets/NewtonVR/Example/OverrideHands.meta
+Assets/NewtonVR/Example/NVRExampleTeleporter.cs.meta
+Assets/NewtonVR/Example/NVRExampleTeleporter.cs
+Assets/NewtonVR/Example/NVRExampleSwitchResult.cs.meta
+Assets/NewtonVR/Example/NVRExampleSwitchResult.cs
+Assets/NewtonVR/Example/NVRExampleSpawner.cs.meta
+Assets/NewtonVR/Example/NVRExampleSpawner.cs
+Assets/NewtonVR/Example/NVRExampleScene/ReflectionProbe-0.exr.meta
+Assets/NewtonVR/Example/NVRExampleScene/ReflectionProbe-0.exr
+Assets/NewtonVR/Example/NVRExampleScene/LightingData.asset.meta
+Assets/NewtonVR/Example/NVRExampleScene/LightingData.asset
+Assets/NewtonVR/Example/NVRExampleScene.unity.meta
+Assets/NewtonVR/Example/NVRExampleScene.unity
+Assets/NewtonVR/Example/NVRExampleScene.meta
+Assets/NewtonVR/Example/NVRExampleRGBResult.cs.meta
+Assets/NewtonVR/Example/NVRExampleRGBResult.cs
+Assets/NewtonVR/Example/NVRExampleLeverResultRocket.cs.meta
+Assets/NewtonVR/Example/NVRExampleLeverResultRocket.cs
+Assets/NewtonVR/Example/NVRExampleLetterResult.cs.meta
+Assets/NewtonVR/Example/NVRExampleLetterResult.cs
+Assets/NewtonVR/Example/NVRExampleLaserPointer.cs.meta
+Assets/NewtonVR/Example/NVRExampleLaserPointer.cs
+Assets/NewtonVR/Example/NVRExampleGun.cs.meta
+Assets/NewtonVR/Example/NVRExampleGun.cs
+Assets/NewtonVR/Example/NVRExampleGrower.cs.meta
+Assets/NewtonVR/Example/NVRExampleGrower.cs
+Assets/NewtonVR/Example/NVRExampleEvent.cs.meta
+Assets/NewtonVR/Example/NVRExampleEvent.cs
+Assets/NewtonVR/Example/NVRExampleDegreeResult.cs.meta
+Assets/NewtonVR/Example/NVRExampleDegreeResult.cs
+Assets/NewtonVR/Example/NVRExampleColorSlider.cs.meta
+Assets/NewtonVR/Example/NVRExampleColorSlider.cs
+Assets/NewtonVR/Example/NVRExampleColorLever.cs.meta
+Assets/NewtonVR/Example/NVRExampleColorLever.cs
+Assets/NewtonVR/Example/NVRExampleButtonResetScene.cs.meta
+Assets/NewtonVR/Example/NVRExampleButtonResetScene.cs
+Assets/NewtonVR/Example/NVRExampleButtonDropSphere.cs.meta
+Assets/NewtonVR/Example/NVRExampleButtonDropSphere.cs
+Assets/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbx.meta
+Assets/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbx
+Assets/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbm/baked-baked_newTree_base_lambert2SG_groundSG-ground.tif.meta
+Assets/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbm/baked-baked_newTree_base_lambert2SG_groundSG-ground.tif
+Assets/NewtonVR/Example/Meshs/NewtonTreeLeaves.fbm.meta
+Assets/NewtonVR/Example/Meshs/NewtonAppleTree.fbx.meta
+Assets/NewtonVR/Example/Meshs/NewtonAppleTree.fbx
+Assets/NewtonVR/Example/Meshs/NewtonAppleTree.fbm/baked-baked_newTree_base_lambert2SG_groundSG-ground.tif.meta
+Assets/NewtonVR/Example/Meshs/NewtonAppleTree.fbm/baked-baked_newTree_base_lambert2SG_groundSG-ground.tif
+Assets/NewtonVR/Example/Meshs/NewtonAppleTree.fbm.meta
+Assets/NewtonVR/Example/Meshs/NVRLetterSpinnerMesh.asset.meta
+Assets/NewtonVR/Example/Meshs/NVRLetterSpinnerMesh.asset
+Assets/NewtonVR/Example/Meshs/Materials/stemMat.mat.meta
+Assets/NewtonVR/Example/Meshs/Materials/stemMat.mat
+Assets/NewtonVR/Example/Meshs/Materials/leafMAt.mat.meta
+Assets/NewtonVR/Example/Meshs/Materials/lambert30.mat.meta
+Assets/NewtonVR/Example/Meshs/Materials/lambert30.mat
+Assets/NewtonVR/Example/Meshs/Materials/barkMat.mat.meta
+Assets/NewtonVR/Example/Meshs/Materials/barkMat.mat
+Assets/NewtonVR/Example/Meshs/Materials/appleMat1.mat.meta
+Assets/NewtonVR/Example/Meshs/Materials/appleMat1.mat
+Assets/NewtonVR/Example/Meshs/Materials/No Name.mat.meta
+Assets/NewtonVR/Example/Meshs/Materials/No Name.mat
+Assets/NewtonVR/Example/Meshs/Materials.meta
+Assets/NewtonVR/Example/Meshs/FlowerGun.fbx.meta
+Assets/NewtonVR/Example/Meshs/FlowerGun.fbx
+Assets/NewtonVR/Example/Meshs/FlowerBullet.FBX.meta
+Assets/NewtonVR/Example/Meshs/FlowerBullet.FBX
+Assets/NewtonVR/Example/Meshs.meta
+Assets/NewtonVR/Example/Materials/NVRExampleTrack.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleTrack.mat
+Assets/NewtonVR/Example/Materials/NVRExampleTinyBoxNoGravity.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleTinyBoxNoGravity.mat
+Assets/NewtonVR/Example/Materials/NVRExampleTinyBox.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleTinyBox.mat
+Assets/NewtonVR/Example/Materials/NVRExampleSwitchOn.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleSwitchOn.mat
+Assets/NewtonVR/Example/Materials/NVRExampleSwitchOff.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleSwitchOff.mat
+Assets/NewtonVR/Example/Materials/NVRExampleStartColor.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleStartColor.mat
+Assets/NewtonVR/Example/Materials/NVRExampleLeverBody.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleLeverBody.mat
+Assets/NewtonVR/Example/Materials/NVRExampleLetterSpinner.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleLetterSpinner.mat
+Assets/NewtonVR/Example/Materials/NVRExampleKnobIndicator.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleKnobIndicator.mat
+Assets/NewtonVR/Example/Materials/NVRExampleKnob.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleKnob.mat
+Assets/NewtonVR/Example/Materials/NVRExampleHandle.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleHandle.mat
+Assets/NewtonVR/Example/Materials/NVRExampleGunGrip.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleGunGrip.mat
+Assets/NewtonVR/Example/Materials/NVRExampleGunBarrel.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleGunBarrel.mat
+Assets/NewtonVR/Example/Materials/NVRExampleGrower.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleGrower.mat
+Assets/NewtonVR/Example/Materials/NVRExampleFloor.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleFloor.mat
+Assets/NewtonVR/Example/Materials/NVRExampleEndColorNoGravity.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleEndColorNoGravity.mat
+Assets/NewtonVR/Example/Materials/NVRExampleEndColor.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleEndColor.mat
+Assets/NewtonVR/Example/Materials/NVRExampleDrawerHandle.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleDrawerHandle.mat
+Assets/NewtonVR/Example/Materials/NVRExampleDrawer.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleDrawer.mat
+Assets/NewtonVR/Example/Materials/NVRExampleDoorKnob.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleDoorKnob.mat
+Assets/NewtonVR/Example/Materials/NVRExampleDoorFrame.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleDoorFrame.mat
+Assets/NewtonVR/Example/Materials/NVRExampleDoor.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleDoor.mat
+Assets/NewtonVR/Example/Materials/NVRExampleColorResult.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleColorResult.mat
+Assets/NewtonVR/Example/Materials/NVRExampleColor.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleColor.mat
+Assets/NewtonVR/Example/Materials/NVRExampleButton.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleButton.mat
+Assets/NewtonVR/Example/Materials/NVRExampleBoxNoGravity.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleBoxNoGravity.mat
+Assets/NewtonVR/Example/Materials/NVRExampleBox.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleBox.mat
+Assets/NewtonVR/Example/Materials/NVRExampleAttachJoint.mat.meta
+Assets/NewtonVR/Example/Materials/NVRExampleAttachJoint.mat
+Assets/NewtonVR/Example/Materials.meta
+Assets/NewtonVR/Example.meta
+Assets/NewtonVR/EnumEqualityComparer.cs.meta
+Assets/NewtonVR/EnumEqualityComparer.cs
+Assets/NewtonVR/Editor/NVRPlayerEditor.cs.meta
+Assets/NewtonVR/Editor/NVRPlayerEditor.cs
+Assets/NewtonVR/Editor.meta
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundProviderUnity.cs.meta
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundProviderUnity.cs
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundProviderFMOD.cs.meta
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundProviderFMOD.cs
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundProvider.cs.meta
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundProvider.cs
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundObject.cs.meta
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundObject.cs
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundMaterials.cs.meta
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundMaterials.cs
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundController.cs.meta
+Assets/NewtonVR/CollisionSoundFramework/NVRCollisionSoundController.cs
+Assets/NewtonVR/CollisionSoundFramework/Editor/NVRCollisionSoundControllerEditor.cs.meta
+Assets/NewtonVR/CollisionSoundFramework/Editor/NVRCollisionSoundControllerEditor.cs
+Assets/NewtonVR/CollisionSoundFramework/Editor.meta
+Assets/NewtonVR/CollisionSoundFramework.meta
+Assets/NewtonVR/CollisionSoundController.prefab.meta
+Assets/NewtonVR/CollisionSoundController.prefab
+Assets/NewtonVR/Example/Meshs/Materials/leafMAt.mat
