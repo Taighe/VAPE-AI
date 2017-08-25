@@ -6,7 +6,6 @@ using System;
 
 namespace NewtonVR
 {
-
     public class NVRAttachJoint : MonoBehaviour
     {
         public NVRInteractableItem AttachedItem;
@@ -84,7 +83,13 @@ namespace NewtonVR
         public void Eject()
         {
             Rigidbody rigid = AttachedItem.gameObject.GetComponent<Rigidbody>();
-            rigid.AddForce(new Vector3(0, 0, 65));
+            rigid.AddForce(new Vector3(0, 0, 35));
+        }
+
+        public void Insert()
+        {
+            Rigidbody rigid = AttachedItem.gameObject.GetComponent<Rigidbody>();
+            rigid.AddForce(new Vector3(0, 0, -50));
         }
     }
 
