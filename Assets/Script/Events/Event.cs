@@ -49,12 +49,14 @@ namespace VapeEvents
             if (m_nextEvent != null)
                 m_nextEvent.Active(true);
 
+            Active(false);
+
         }
 
         public void Active(bool value)
         {
             conditions.enabled = value;
-            Condition _actions = actions.GetPersistentTarget(0) as Condition;
+            Action _actions = actions.GetPersistentTarget(0) as Action;
             _actions.enabled = value;
         }
 
