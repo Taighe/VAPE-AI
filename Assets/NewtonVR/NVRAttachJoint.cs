@@ -46,8 +46,6 @@ namespace NewtonVR
             if (IsAttached == true)
             {
                 FixedUpdateAttached();
-
-                NVRCustomEvents.OnEventAttached(new AttachEventArgs(AttachedItem.gameObject.name, AttachedItem));
             }
         }
 
