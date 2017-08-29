@@ -6,10 +6,32 @@ ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
+    100002: KeyBoard 1
+    100004: KeyBoardColliders
+    100006: pCube135
+    100008: polySurface16
+    100010: polySurface17
     400000: //RootNode
+    400002: KeyBoard 1
+    400004: KeyBoardColliders
+    400006: pCube135
+    400008: polySurface16
+    400010: polySurface17
     2300000: //RootNode
+    2300002: KeyBoard 1
+    2300004: pCube135
+    2300006: polySurface16
+    2300008: polySurface17
     3300000: //RootNode
+    3300002: KeyBoard 1
+    3300004: pCube135
+    3300006: polySurface16
+    3300008: polySurface17
     4300000: Keyboard
+    4300002: KeyBoard
+    4300004: pCube135
+    4300006: polySurface16
+    4300008: polySurface17
   materials:
     importMaterials: 1
     materialName: 0
