@@ -187,6 +187,9 @@ ModelImporter:
     100358: transform89
     100360: transform9
     100362: transform90
+    100364: curve5
+    100366: polySurface16
+    100368: polySurface18
     400000: pCube1
     400002: pCube10
     400004: pCube11
@@ -369,9 +372,21 @@ ModelImporter:
     400358: transform89
     400360: transform9
     400362: transform90
+    400364: curve5
+    400366: polySurface16
+    400368: polySurface18
     2300000: pCube81
+    2300002: pCube78
+    2300004: polySurface16
+    2300006: polySurface18
     3300000: pCube81
+    3300002: pCube78
+    3300004: polySurface16
+    3300006: polySurface18
     4300000: pCube81
+    4300002: pCube78
+    4300004: polySurface18
+    4300006: polySurface16
   materials:
     importMaterials: 1
     materialName: 0
